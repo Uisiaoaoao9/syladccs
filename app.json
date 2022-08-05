@@ -16,7 +16,7 @@
     },
     "ANTISPAM": {
       "description": "Antispam bot limit bot sleep for how many time in cmd spam",
-      "value": "10s",
+      "value": "10",
       "required": true
     },
     "BLACKLISTED": {
